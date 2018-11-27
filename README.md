@@ -4,6 +4,7 @@
 
 ## Comics mainly for/about developers
 
+- [/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) – Dedicated subreddit to humor and jokes relating to programmers and programming.
 - [CommitStrip](http://www.commitstrip.com/en/) – The blog relating the daily life of web agency developers.
 - [MonkeyUser](https://www.monkeyuser.com/) – Software development satire in a web comic.
 - [turnoff.us](http://turnoff.us/) – Geek Comic Site
