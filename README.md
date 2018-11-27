@@ -15,3 +15,9 @@
 - [xkcd](https://xkcd.com/) – A webcomic of romance, sarcasm, math, and language.
 - [Dilbert](https://dilbert.com/) – Satirical office humor.
 - [PhD Comics](http://phdcomics.com/) – Piled Higher and Deeper, Life at the university.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [CodeBrauer](https://github.com/CodeBrauer) has waived all copyright and related or neighboring rights to this work.
