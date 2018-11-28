@@ -13,6 +13,7 @@
 - [Geek&Poke](http://geek-and-poke.com/) – Some cartoons about coders.
 - [Invisible Bread](http://invisiblebread.com/) – A webcomic that you'll enjoy if you like comics about things and stuff!
 - [OSNews Comics (FocusShift)](http://www.osnews.com/comics) – Comics focused on the news, but also making fun of users and ourselves.
+- [UserFriendly.Org](http://www.userfriendly.org/) – impairing productivity since 1997.
 - [Stack Overflow](https://stackoverflow.com/questions/84556/whats-your-favorite-programmer-cartoon) – Yup. There is a SO question for the favorite programmer cartoon (Locked, no new content). 
 
 ## Can include developers
