@@ -12,6 +12,7 @@
 - [devRant](https://devrant.com/feed) – A fun community for developers to connect over code, tech & life as a programmer.
 - [Geek&Poke](http://geek-and-poke.com/) – Some cartoons about coders.
 - [Invisible Bread](http://invisiblebread.com/) – A webcomic that you'll enjoy if you like comics about things and stuff!
+- [OSNews Comics (FocusShift)](http://www.osnews.com/comics) – Comics focused on the news, but also making fun of users and ourselves.
 
 ## Can include developers
 
