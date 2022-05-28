@@ -14,7 +14,6 @@
 - [Geek&Poke](http://geek-and-poke.com/) - Some cartoons about coders.
 - [Invisible Bread](http://invisiblebread.com/) - A webcomic that you'll enjoy if you like comics about things and stuff!
 - [OSNews Comics (FocusShift)](http://www.osnews.com/comics) - Comics focused on the news, but also making fun of users and ourselves.
-- [UserFriendly.Org](http://www.userfriendly.org/) - impairing productivity since 1997.
 - [comicss](https://comicss.art/) - A webcomic about CSS. Coded in CSS.
 
 ### Subreddits
