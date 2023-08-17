@@ -33,7 +33,7 @@
 *But also featuring other topics (office life, science, math, etc.)*
 
 - [xkcd](https://xkcd.com/) - A webcomic of romance, sarcasm, math, and language.
-- [Dilbert](https://dilbert.com/) - Satirical office humor.
+- [Dilbert](https://web.archive.org/web/20230310210307/https://dilbert.com/) - Satirical office humor. (Web archive)
 - [PhD Comics](http://phdcomics.com/) - Piled Higher and Deeper, Life at the university.
 - [Abstruse Goose](https://abstrusegoose.com/) - A webcomic......... that is all.
 
